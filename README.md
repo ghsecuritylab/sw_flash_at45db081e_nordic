@@ -1,0 +1,1 @@
+# sw_flash_at45db081e_nordic
